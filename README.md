@@ -5,6 +5,21 @@
 
 We will be using Binder to walk through the tutorial. Click the button above to launch your cloud-based image with all of the packages you need pre-installed.
 
+<div align='center'>
+<img style="width: auto; height: auto;" src="img/net_flow_map.png"></img>
+</div>
+<br />
+
+<div align='center'>
+<img style="width: auto; height: auto;" src="img/transportation_by_income.png"></img>
+</div>
+<br />
+
+<div align='center'>
+<img style="width: auto; height: auto;" src="img/NY_OD_Matrix.png"></img>
+</div>
+<br />
+
 ## Licensing
 See the [LICENSE](LICENSE) file for licensing information as it pertains to files in this repository.
 
